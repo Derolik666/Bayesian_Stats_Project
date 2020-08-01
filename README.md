@@ -5,7 +5,7 @@ researchers from every possible angle. Among the various perspectives that peopl
 linear regression problem, two genres stand out and have been "competed" for decades, which
 are Bayesian and Frequentist. In this project, I aim to build a linear regression model to predict
 NBA players' salaries from both the Bayesian approach and the Frequentist approach. To be more
-specic, I want to study the dierence between the two approaches in terms of the result and the
+specific, I want to study the difference between the two approaches in terms of the result and the
 interpretations of the parameters. In the next section, I am going to give a brief introduction to
 the data I collected for this project and the data preprocessing I have done.
 
