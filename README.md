@@ -7,6 +7,7 @@
 
 ## Results
 * Selected features
+
 ![Screenshot](Results/VIF_after.png)
 
 * The trace plot and the posterior distributions of parametersof the model with 1000 samples for illustration purpose
