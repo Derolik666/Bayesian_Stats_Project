@@ -9,7 +9,7 @@
 * Test on No U-Turns Sampler (NUTS) method (Hamiltonian Monte Carlo method)
 
 ## Solutions
-* Built two bayesian linear models one with Metropolis-Hastings and the other with No U-Turns Sampler(NUTS) sampling method. 
+* Built two bayesian linear models one with **Metropolis-Hastings** and the other with **No U-Turns Sampler(NUTS)** sampling method. 
 
 ## Results
 * Selected features
